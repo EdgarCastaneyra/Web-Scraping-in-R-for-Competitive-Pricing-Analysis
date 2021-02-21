@@ -2,7 +2,7 @@
 
 An important Hotel group needs to be monitoring the prices of their competitors for a specific Range of time. 
 
-This code extracts the price, type of room, facilities, review score from the webpages booking.com and expedia.com.
+This code built in R using rvest library, extracts the price, type of room, facilities, review score from the webpages booking.com and expedia.com.
 
 It uses two excel files as an input, the first one has the Hotel name, webpage, link of the specific room. The second one has the ranges of booking dates that will be used to calculate a price.
 
